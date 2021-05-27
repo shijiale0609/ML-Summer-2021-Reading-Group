@@ -13,9 +13,4 @@ Welcome to join our weekly zoom discussions!
 
 Time: 11:00AM-12:00PM Monday (EST) (canceled if holiday)
 
-Join Zoom Meeting
-
-https://notredame.zoom.us/j/94221334505?pwd=NmZjSTAxblNPQjc3ZC91aFE3dFZOdz09
-
-Meeting ID: 942 2133 4505
-Passcode: 092286
+Contact jshi1@nd.edu or jwhitme1@nd.edu for zoom link.
