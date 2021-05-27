@@ -4,9 +4,7 @@ studying notes about [DeepLearning_NYU2020 course](https://cds.nyu.edu/deep-lear
 
 
 
-Sign up sheet link (encourage but not require)
-
-https://docs.google.com/spreadsheets/d/1iYisx4l4-0EgtIQuD_GxSgJBEuiSGluTwcKqg4z9gWM/edit?usp=sharing  (open to Notre Dame account)
+Sign up [sheet link](https://docs.google.com/spreadsheets/d/1iYisx4l4-0EgtIQuD_GxSgJBEuiSGluTwcKqg4z9gWM/edit?usp=sharing) open to Notre Dame account (encourage but not require) 
 
 
 Welcome to join our weekly zoom discussions! 
