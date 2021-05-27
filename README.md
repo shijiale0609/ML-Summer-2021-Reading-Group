@@ -1,5 +1,5 @@
 # Whitmer&Colon ML Summer 2021 Reading Group
-# DeepLearning_NYU2020_Notes
+## DeepLearning_NYU2020_Notes
 studying notes about [DeepLearning_NYU2020 course](https://cds.nyu.edu/deep-learning/)
 
 
