@@ -1,7 +1,7 @@
 # DeepLearning_NYU2020_Notes
-studying notes about DeepLearning_NYU2020 course
+studying notes about [DeepLearning_NYU2020 course](https://cds.nyu.edu/deep-learning/)
 
-https://cds.nyu.edu/deep-learning/
+
 
 
 Sign up sheet link (encourage but not require)
