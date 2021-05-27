@@ -7,7 +7,7 @@ https://docs.google.com/spreadsheets/d/1iYisx4l4-0EgtIQuD_GxSgJBEuiSGluTwcKqg4z9
 
 Welcome to join our weekly zoom discussions!
 
-Time: 11:00AM-12:00PM Monday (EST) (canceled if Holiday)
+Time: 11:00AM-12:00PM Monday (EST) (canceled if holiday)
 
 Join Zoom Meeting
 
