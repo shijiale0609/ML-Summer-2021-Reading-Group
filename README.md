@@ -6,7 +6,7 @@ https://cds.nyu.edu/deep-learning/
 
 Sign up sheet link (encourage but not require)
 
-https://docs.google.com/spreadsheets/d/1iYisx4l4-0EgtIQuD_GxSgJBEuiSGluTwcKqg4z9gWM/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1iYisx4l4-0EgtIQuD_GxSgJBEuiSGluTwcKqg4z9gWM/edit?usp=sharing  (open to Notre Dame account)
 
 
 Welcome to join our weekly zoom discussions! 
